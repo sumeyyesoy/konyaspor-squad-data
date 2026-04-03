@@ -1,1 +1,31 @@
-anccede
+{
+  "get": "players/squads",
+  "parameters": {
+    "team": "607"
+  },
+  "errors": [],
+  "results": 1,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "team": {
+        "id": 607,
+        "name": "Konyaspor",
+        "logo": "https://media.api-sports.io/football/teams/607.png"
+      },
+      "players": [
+        {
+          "id": 478077,
+          "name": "E. Aydın",
+          "age": 18,
+          "number": 29,
+          "position": "Goalkeeper",
+          "photo": "https://media.api-sports.io/football/players/478077.png"
+        }
+      ]
+    }
+  ]
+}

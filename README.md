@@ -1,0 +1,1 @@
+# konyaspor-squad-data

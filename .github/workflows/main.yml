@@ -2,8 +2,8 @@ name: Konyaspor Kadro Guncelleme
 
 on:
   schedule:
-    # 25 Subat ve 25 Eylul gece 00:00'da otomatik calisir
-    - cron: '0 0 25 2,9 *'
+    # Her ayın 1'inde gece 00:00'da otomatik calisir
+    - cron: '0 0 1 * *'
   workflow_dispatch: # Sana ozel "Manuel Tetikleme" butonu ekler (Test icin)
 
 jobs:

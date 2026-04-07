@@ -4,19 +4,19 @@ on:
   schedule:
     # Her ayın 1'inde gece 00:00'da otomatik calisir
     - cron: '0 0 1 * *'
-  workflow_dispatch: # Sana ozel "Manuel Tetikleme" butonu ekler (Test icin)
+  workflow_dispatch: 
 
 jobs:
   update-data:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # GitHub botuna dosyayi degistirme izni veriyoruz
+      contents: write 
     
     steps:
     - name: Depoyu Klonla
       uses: actions/checkout@v4
 
-    - name: API'den Yeni Kadroyu Çek
+    - name: API
       run: |
         curl -X GET "https://v3.football.api-sports.io/players/squads?team=607" \
         -H "x-apisports-key: ${{ secrets.API_KEY }}" \
@@ -27,5 +27,4 @@ jobs:
         git config --global user.name "Transfer Botu"
         git config --global user.email "actions@github.com"
         git add squad.json
-        # Eger dosyada degisiklik varsa kaydet, yoksa bir sey yapma
         git diff --quiet && git diff --staged --quiet || (git commit -m "Kadro Guncellendi: $(date +'%Y-%m-%d')" && git push)

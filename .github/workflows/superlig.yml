@@ -1,0 +1,53 @@
+name: Super Lig Tum Kadrolar
+
+on:
+  schedule:
+    # API çakışmasını önlemek için Konyaspor'dan 1 gün sonra (Ayın 2'si) çalışır
+    - cron: '0 0 2 * *'
+  workflow_dispatch: 
+
+jobs:
+  update-superlig:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write 
+    
+    steps:
+    - name: Depoyu Klonla
+      uses: actions/checkout@v4
+
+    - name: Süper Lig Takımlarını Çek
+      run: |
+        # Süper Lig kadrolarının karışmaması için "squads" adında yeni bir klasör aç
+        mkdir -p squads
+        
+        echo "Süper Lig (203) takımları çekiliyor..."
+        
+        curl -s -X GET "https://v3.football.api-sports.io/teams?league=203&season=2024" \
+        -H "x-apisports-key: ${{ secrets.API_KEY }}" \
+        -o takimlar.json
+        
+        TEAM_IDS=$(jq '.response[].team.id' takimlar.json)
+       
+        for ID in $TEAM_IDS; do
+          echo "Takım $ID kadrosu çekiliyor..."
+          
+          # Takımın kadrosunu çek ve squads/takim_ID.json olarak kaydet
+          curl -s -X GET "https://v3.football.api-sports.io/players/squads?team=$ID" \
+          -H "x-apisports-key: ${{ secrets.API_KEY }}" \
+          -o "squads/takim_$ID.json"
+          
+          # API'nin "Dakikada 10 İstek" sınırına takılmamak için 7 saniye bekle
+          sleep 7 
+        done
+        
+        rm -f takimlar.json
+        
+    - name: Degisiklikleri Kaydet (Commit & Push)
+      run: |
+        git config --global user.name "SuperLig Botu"
+        git config --global user.email "actions@github.com"
+
+        git add squads/
+        
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Süper Lig Kadrolari Guncellendi" && git push)

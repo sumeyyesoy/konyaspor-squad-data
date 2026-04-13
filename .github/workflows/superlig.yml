@@ -18,7 +18,8 @@ jobs:
 
     - name: Süper Lig Takımlarını Çek
       run: |
-        # Süper Lig kadrolarının karışmaması için "squads" adında yeni bir klasör aç
+        # Varsa eski klasörü sil ve tertemiz bir klasör aç (Küme düşenleri temizlemek için)
+        rm -rf squads
         mkdir -p squads
         
         # --- DİNAMİK SEZON HESAPLAMA ---
@@ -63,7 +64,7 @@ jobs:
         git config --global user.name "SuperLig Botu"
         git config --global user.email "actions@github.com"
         
-        # Sadece yeni oluşan squads klasörünü git'e ekle
-        git add squads/
+        # Yeni oluşan squads klasörünü (ve silinen eski dosyaları) git'e ekle
+        git add --all squads/
         
         git diff --quiet && git diff --staged --quiet || (git commit -m "Süper Lig Kadrolari Guncellendi" && git push)

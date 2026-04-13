@@ -1,58 +1,46 @@
 name: Super Lig Tum Kadrolar
-
 on:
   schedule:
-    # API çakışmasını önlemek için Konyaspor'dan 1 gün sonra (Ayın 2'si) çalışır
     - cron: '0 0 2 * *'
-  workflow_dispatch: 
+  workflow_dispatch:
 
 jobs:
   update-superlig:
     runs-on: ubuntu-latest
     permissions:
       contents: write 
-    
     steps:
     - name: Depoyu Klonla
       uses: actions/checkout@v4
 
-    - name: Süper Lig Takımlarını Çek
+    - name: Süper Lig Takımlarını Çek ve Birleştir
       run: |
-        # Süper Lig kadrolarının karışmaması için "squads" adında yeni bir klasör aç
-        mkdir -p squads
+        mkdir -p temp_squads
+        SEASON=2024
         
-        echo "Süper Lig (203) takımları çekiliyor..."
+        echo "Sabit Sezon: $SEASON yılı Süper Lig takımları çekiliyor..."
         
-        # Ligdeki takımların listesini gecici bir dosyaya çek
-        curl -s -X GET "https://v3.football.api-sports.io/teams?league=203&season=2025" \
-        -H "x-apisports-key: ${{ secrets.API_KEY }}" \
-        -o takimlar.json
-        
-        # jq aracı ile JSON'dan sadece Takım ID'lerini ayıkla
+        # Takım listesini al
+        curl -s -X GET "https://v3.football.api-sports.io/teams?league=203&season=$SEASON" -H "x-apisports-key: ${{ secrets.API_KEY }}" -o takimlar.json
         TEAM_IDS=$(jq '.response[].team.id' takimlar.json)
         
-        # Bulunan her bir takım ID'si için döngü başlat
+        # Her takımın kadrosunu temp klasörüne çek
         for ID in $TEAM_IDS; do
           echo "Takım $ID kadrosu çekiliyor..."
-          
-          # Takımın kadrosunu çek ve squads/takim_ID.json olarak kaydet
-          curl -s -X GET "https://v3.football.api-sports.io/players/squads?team=$ID" \
-          -H "x-apisports-key: ${{ secrets.API_KEY }}" \
-          -o "squads/takim_$ID.json"
-          
-          # KRİTİK: API'nin "Dakikada 10 İstek" sınırına takılmamak için 7 saniye bekle
+          curl -s -X GET "https://v3.football.api-sports.io/players/squads?team=$ID" -H "x-apisports-key: ${{ secrets.API_KEY }}" -o "temp_squads/$ID.json"
           sleep 7 
         done
         
-        # İşi biten geçici takımlar dosyasını sil
-        rm -f takimlar.json
+        echo "Bütün dosyalar tek bir JSON'da birleştiriliyor..."
+        # Bütün takımları nizami tek bir array (dizi) içinde birleştir ve ana dizine kaydet
+        jq -s '{ response: [ .[].response[0] | select(. != null) ] }' temp_squads/*.json > superlig_squads.json
         
-    - name: Degisiklikleri Kaydet (Commit & Push)
+        # Çöp (geçici) dosyaları sil
+        rm -rf temp_squads takimlar.json
+        
+    - name: Degisiklikleri Kaydet
       run: |
         git config --global user.name "SuperLig Botu"
         git config --global user.email "actions@github.com"
-        
-        # Sadece yeni oluşan squads klasörünü git'e ekle
-        git add squads/
-        
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Süper Lig Kadrolari Guncellendi" && git push)
+        git add superlig_squads.json
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Süper Lig Tek Dosya Olarak Guncellendi" && git push)

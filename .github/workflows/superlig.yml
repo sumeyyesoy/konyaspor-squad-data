@@ -24,7 +24,7 @@ jobs:
         echo "Süper Lig (203) takımları çekiliyor..."
         
         # Ligdeki takımların listesini gecici bir dosyaya çek
-        curl -s -X GET "https://v3.football.api-sports.io/teams?league=203&season=2024" \
+        curl -s -X GET "https://v3.football.api-sports.io/teams?league=203&season=2025" \
         -H "x-apisports-key: ${{ secrets.API_KEY }}" \
         -o takimlar.json
         

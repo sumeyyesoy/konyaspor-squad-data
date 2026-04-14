@@ -1,19 +1,4 @@
-name: Super Lig Tum Kadrolar
-on:
-  schedule:
-    - cron: '0 0 2 * *'
-  workflow_dispatch:
-
-jobs:
-  update-superlig:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write 
-    steps:
-    - name: Depoyu Klonla
-      uses: actions/checkout@v4
-
-    - name: Süper Lig Takımlarını Çek ve Birleştir
+- name: Süper Lig Takımlarını Çek ve Birleştir
       run: |
         mkdir -p temp_squads
         SEASON=2024
@@ -26,6 +11,12 @@ jobs:
         
         # Her takımın kadrosunu temp klasörüne çek
         for ID in $TEAM_IDS; do
+          # Konyaspor'un ID'si 607 ise isteği atla
+          if [ "$ID" == "607" ]; then
+            echo "Konyaspor (ID: 607) atlanıyor..."
+            continue
+          fi
+
           echo "Takım $ID kadrosu çekiliyor..."
           curl -s -X GET "https://v3.football.api-sports.io/players/squads?team=$ID" -H "x-apisports-key: ${{ secrets.API_KEY }}" -o "temp_squads/$ID.json"
           sleep 7 
@@ -37,10 +28,3 @@ jobs:
         
         # Çöp (geçici) dosyaları sil
         rm -rf temp_squads takimlar.json
-        
-    - name: Degisiklikleri Kaydet
-      run: |
-        git config --global user.name "SuperLig Botu"
-        git config --global user.email "actions@github.com"
-        git add superlig_squads.json
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Süper Lig Tek Dosya Olarak Guncellendi" && git push)

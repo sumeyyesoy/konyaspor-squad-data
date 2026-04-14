@@ -16,7 +16,7 @@ jobs:
       - name: Süper Lig Takımlarını Çek ve Birleştir
         run: |
           mkdir -p temp_squads
-          SEASON=2025
+          SEASON=2024
           
           echo "API'ye istek atılıyor..."
           curl -s -X GET "https://v3.football.api-sports.io/teams?league=203&season=$SEASON" -H "x-apisports-key: ${{ secrets.API_KEY }}" -o takimlar.json

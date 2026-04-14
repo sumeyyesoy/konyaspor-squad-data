@@ -16,7 +16,7 @@ jobs:
       - name: Süper Lig Takımlarını Çek ve Birleştir
         run: |
           mkdir -p temp_squads
-          SEASON=2024
+          SEASON=2025
           
           echo "Sabit Sezon: $SEASON yılı Süper Lig takımları çekiliyor..."
           
@@ -49,4 +49,4 @@ jobs:
           git config --global user.name "SuperLig Botu"
           git config --global user.email "actions@github.com"
           git add superlig_squads.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Süper Lig Tek Dosya Olarak Guncellendi" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Süper Lig Tek Dosya Olarak Guncellendi (2025 Sezonu)" && git push)

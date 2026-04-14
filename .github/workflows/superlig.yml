@@ -16,7 +16,7 @@ jobs:
     - name: Süper Lig Takımlarını Çek ve Birleştir
       run: |
         mkdir -p temp_squads
-        SEASON=2024
+        SEASON=2025
         
         echo "Sabit Sezon: $SEASON yılı Süper Lig takımları çekiliyor..."
         

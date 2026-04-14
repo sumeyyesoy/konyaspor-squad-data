@@ -18,16 +18,23 @@ jobs:
           mkdir -p temp_squads
           SEASON=2025
           
-          echo "Sabit Sezon: $SEASON yılı Süper Lig takımları çekiliyor..."
-          
-          # Takım listesini al
+          echo "API'ye istek atılıyor..."
           curl -s -X GET "https://v3.football.api-sports.io/teams?league=203&season=$SEASON" -H "x-apisports-key: ${{ secrets.API_KEY }}" -o takimlar.json
-          TEAM_IDS=$(jq '.response[].team.id' takimlar.json)
           
-          # Her takımın kadrosunu temp klasörüne çek
+          echo "API'DEN GELEN CEVAP:"
+          cat takimlar.json
+          echo ""
+          
+          # Hata korumalı JSON okuma
+          TEAM_IDS=$(jq -r '.response[].team.id // empty' takimlar.json)
+          
+          if [ -z "$TEAM_IDS" ]; then
+            echo "KRİTİK HATA: Takım ID'leri bulunamadı! API Anahtarınızı (API_KEY) kontrol edin veya günlük limitinizi doldurmuş olabilirsiniz."
+            exit 1
+          fi
+          
           for ID in $TEAM_IDS; do
-            # Konyaspor'un ID'si 607 ise isteği atla
-            if [ "$ID" == "607" ]; then
+            if [ "$ID" = "607" ]; then
               echo "Konyaspor (ID: 607) atlanıyor..."
               continue
             fi
@@ -37,11 +44,15 @@ jobs:
             sleep 7 
           done
           
-          echo "Bütün dosyalar tek bir JSON'da birleştiriliyor..."
-          # Bütün takımları nizami tek bir array (dizi) içinde birleştir ve ana dizine kaydet
-          jq -s '{ response: [ .[].response[0] | select(. != null) ] }' temp_squads/*.json > superlig_squads.json
+          # Eğer klasörde json dosyası varsa birleştir, yoksa hata verip çökmesini engelle
+          if ls temp_squads/*.json 1> /dev/null 2>&1; then
+            echo "Bütün dosyalar tek bir JSON'da birleştiriliyor..."
+            jq -s '{ response: [ .[].response[0] | select(. != null) ] }' temp_squads/*.json > superlig_squads.json
+          else
+            echo "KRİTİK HATA: Birleştirilecek hiçbir kadro dosyası bulunamadı!"
+            exit 1
+          fi
           
-          # Çöp (geçici) dosyaları sil
           rm -rf temp_squads takimlar.json
           
       - name: Degisiklikleri Kaydet

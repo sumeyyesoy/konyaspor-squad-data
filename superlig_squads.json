@@ -8,28 +8,12 @@
       },
       "players": [
         {
-          "id": 37111,
-          "name": "B. Bayazıt",
-          "age": 26,
-          "number": 25,
-          "position": "Goalkeeper",
-          "photo": "https://media.api-sports.io/football/players/37111.png"
-        },
-        {
           "id": 442410,
           "name": "Deniz Eren Donmezer",
           "age": 17,
           "number": 27,
           "position": "Goalkeeper",
           "photo": "https://media.api-sports.io/football/players/442410.png"
-        },
-        {
-          "id": 134492,
-          "name": "O. Piri",
-          "age": 31,
-          "number": 1,
-          "position": "Goalkeeper",
-          "photo": "https://media.api-sports.io/football/players/134492.png"
         },
         {
           "id": 503700,
@@ -48,28 +32,12 @@
           "photo": "https://media.api-sports.io/football/players/706.png"
         },
         {
-          "id": 22245,
-          "name": "L. Carole",
-          "age": 34,
-          "number": 23,
-          "position": "Defender",
-          "photo": "https://media.api-sports.io/football/players/22245.png"
-        },
-        {
           "id": 620048,
           "name": "K. Cihan",
           "age": 18,
           "number": 38,
           "position": "Defender",
           "photo": "https://media.api-sports.io/football/players/620048.png"
-        },
-        {
-          "id": 67,
-          "name": "S. Denswil",
-          "age": 32,
-          "number": 4,
-          "position": "Defender",
-          "photo": "https://media.api-sports.io/football/players/67.png"
         },
         {
           "id": 61987,
@@ -104,28 +72,12 @@
           "photo": "https://media.api-sports.io/football/players/2709.png"
         },
         {
-          "id": 24962,
-          "name": "L. Bénes",
-          "age": 28,
-          "number": 8,
+          "id": 371932,
+          "name": "B. Gezek",
+          "age": 20,
+          "number": 55,
           "position": "Midfielder",
-          "photo": "https://media.api-sports.io/football/players/24962.png"
-        },
-        {
-          "id": 62419,
-          "name": "R. Civelek",
-          "age": 30,
-          "number": 28,
-          "position": "Midfielder",
-          "photo": "https://media.api-sports.io/football/players/62419.png"
-        },
-        {
-          "id": 127280,
-          "name": "D. Makarov",
-          "age": 27,
-          "number": 18,
-          "position": "Midfielder",
-          "photo": "https://media.api-sports.io/football/players/127280.png"
+          "photo": "https://media.api-sports.io/football/players/371932.png"
         },
         {
           "id": 41447,
@@ -134,14 +86,6 @@
           "number": 10,
           "position": "Midfielder",
           "photo": "https://media.api-sports.io/football/players/41447.png"
-        },
-        {
-          "id": 182275,
-          "name": "E. Özbek",
-          "age": 23,
-          "number": 16,
-          "position": "Midfielder",
-          "photo": "https://media.api-sports.io/football/players/182275.png"
         },
         {
           "id": 25076,
@@ -160,14 +104,6 @@
           "photo": "https://media.api-sports.io/football/players/180756.png"
         },
         {
-          "id": 50239,
-          "name": "F. Soyalp",
-          "age": 30,
-          "number": 33,
-          "position": "Midfielder",
-          "photo": "https://media.api-sports.io/football/players/50239.png"
-        },
-        {
           "id": 53659,
           "name": "Miguel Cardoso",
           "age": 31,
@@ -176,36 +112,12 @@
           "photo": "https://media.api-sports.io/football/players/53659.png"
         },
         {
-          "id": 843,
-          "name": "F. Chalov",
-          "age": 27,
-          "number": 63,
-          "position": "Attacker",
-          "photo": "https://media.api-sports.io/football/players/843.png"
-        },
-        {
-          "id": 50221,
-          "name": "B. Kapacak",
-          "age": 26,
-          "number": 17,
-          "position": "Attacker",
-          "photo": "https://media.api-sports.io/football/players/50221.png"
-        },
-        {
           "id": 50125,
           "name": "N. Korkmaz",
           "age": 23,
           "number": 77,
           "position": "Attacker",
           "photo": "https://media.api-sports.io/football/players/50125.png"
-        },
-        {
-          "id": 24860,
-          "name": "Carlos Mané",
-          "age": 31,
-          "number": 20,
-          "position": "Attacker",
-          "photo": "https://media.api-sports.io/football/players/24860.png"
         },
         {
           "id": 303017,
@@ -222,14 +134,6 @@
           "number": 9,
           "position": "Attacker",
           "photo": "https://media.api-sports.io/football/players/2093.png"
-        },
-        {
-          "id": 68079,
-          "name": "I. Tuci",
-          "age": 25,
-          "number": 22,
-          "position": "Attacker",
-          "photo": "https://media.api-sports.io/football/players/68079.png"
         }
       ]
     },
@@ -241,14 +145,6 @@
       },
       "players": [
         {
-          "id": 50020,
-          "name": "G. Akkan",
-          "age": 31,
-          "number": 22,
-          "position": "Goalkeeper",
-          "photo": "https://media.api-sports.io/football/players/50020.png"
-        },
-        {
           "id": 50163,
           "name": "G. Bakırbaş",
           "age": 29,
@@ -257,36 +153,12 @@
           "photo": "https://media.api-sports.io/football/players/50163.png"
         },
         {
-          "id": 624966,
-          "name": "Y. Baynazoglu",
-          "age": 15,
-          "number": 53,
-          "position": "Goalkeeper",
-          "photo": "https://media.api-sports.io/football/players/624966.png"
-        },
-        {
           "id": 505210,
           "name": "Arda Erdusun",
           "age": 18,
           "number": 16,
           "position": "Goalkeeper",
           "photo": "https://media.api-sports.io/football/players/505210.png"
-        },
-        {
-          "id": 628109,
-          "name": "K. Koparan",
-          "age": 17,
-          "number": 74,
-          "position": "Goalkeeper",
-          "photo": "https://media.api-sports.io/football/players/628109.png"
-        },
-        {
-          "id": 456649,
-          "name": "Serkan Kaan Sarman",
-          "age": 19,
-          "number": 41,
-          "position": "Goalkeeper",
-          "photo": "https://media.api-sports.io/football/players/456649.png"
         },
         {
           "id": 62018,
@@ -313,6 +185,14 @@
           "photo": "https://media.api-sports.io/football/players/49839.png"
         },
         {
+          "id": 451985,
+          "name": "Y. Kefkir",
+          "age": 19,
+          "number": 77,
+          "position": "Defender",
+          "photo": "https://media.api-sports.io/football/players/451985.png"
+        },
+        {
           "id": 61870,
           "name": "M. Paluli",
           "age": 31,
@@ -329,36 +209,12 @@
           "photo": "https://media.api-sports.io/football/players/626961.png"
         },
         {
-          "id": 280239,
-          "name": "Ö. Yiğiter",
-          "age": 26,
-          "number": 6,
-          "position": "Defender",
-          "photo": "https://media.api-sports.io/football/players/280239.png"
-        },
-        {
           "id": 630549,
           "name": "S. Ala",
           "age": 18,
           "number": 92,
           "position": "Midfielder",
           "photo": "https://media.api-sports.io/football/players/630549.png"
-        },
-        {
-          "id": 334063,
-          "name": "M. Albayrak",
-          "age": 22,
-          "number": 4,
-          "position": "Midfielder",
-          "photo": "https://media.api-sports.io/football/players/334063.png"
-        },
-        {
-          "id": 98455,
-          "name": "D. Avramovski",
-          "age": 30,
-          "number": 72,
-          "position": "Midfielder",
-          "photo": "https://media.api-sports.io/football/players/98455.png"
         },
         {
           "id": 61976,
@@ -417,22 +273,6 @@
           "photo": "https://media.api-sports.io/football/players/50182.png"
         },
         {
-          "id": 451883,
-          "name": "Mehmet Talha Şeker",
-          "age": 19,
-          "number": 88,
-          "position": "Midfielder",
-          "photo": "https://media.api-sports.io/football/players/451883.png"
-        },
-        {
-          "id": 550989,
-          "name": "M. Yildirim",
-          "age": 29,
-          "number": 26,
-          "position": "Midfielder",
-          "photo": "https://media.api-sports.io/football/players/550989.png"
-        },
-        {
           "id": 1732,
           "name": "A. Badji",
           "age": 28,
@@ -465,14 +305,6 @@
           "photo": "https://media.api-sports.io/football/players/378837.png"
         },
         {
-          "id": 48589,
-          "name": "A. Malle",
-          "age": 27,
-          "number": 12,
-          "position": "Attacker",
-          "photo": "https://media.api-sports.io/football/players/48589.png"
-        },
-        {
           "id": 46725,
           "name": "R. Manaj",
           "age": 28,
@@ -489,12 +321,12 @@
           "photo": "https://media.api-sports.io/football/players/358558.png"
         },
         {
-          "id": 627088,
-          "name": "M. Ozek",
-          "age": 16,
-          "number": 93,
+          "id": 499052,
+          "name": "Yilmaz Cin",
+          "age": 17,
+          "number": 17,
           "position": "Attacker",
-          "photo": "https://media.api-sports.io/football/players/627088.png"
+          "photo": "https://media.api-sports.io/football/players/499052.png"
         }
       ]
     },
@@ -570,28 +402,20 @@
           "photo": "https://media.api-sports.io/football/players/41569.png"
         },
         {
-          "id": 3418,
-          "name": "N. Opoku",
-          "age": 28,
-          "number": 20,
+          "id": 178886,
+          "name": "M. Ilie",
+          "age": 23,
+          "number": 27,
           "position": "Defender",
-          "photo": "https://media.api-sports.io/football/players/3418.png"
+          "photo": "https://media.api-sports.io/football/players/178886.png"
         },
         {
-          "id": 829,
-          "name": "Rodrigo Becão",
-          "age": 30,
-          "number": 50,
+          "id": 380253,
+          "name": "A. Karapo",
+          "age": 21,
+          "number": 45,
           "position": "Defender",
-          "photo": "https://media.api-sports.io/football/players/829.png"
-        },
-        {
-          "id": 442,
-          "name": "E. Taşdemir",
-          "age": 30,
-          "number": 33,
-          "position": "Defender",
-          "photo": "https://media.api-sports.io/football/players/442.png"
+          "photo": "https://media.api-sports.io/football/players/380253.png"
         },
         {
           "id": 10563,
@@ -600,14 +424,6 @@
           "number": 2,
           "position": "Defender",
           "photo": "https://media.api-sports.io/football/players/10563.png"
-        },
-        {
-          "id": 550893,
-          "name": "E. Aydin",
-          "age": 21,
-          "number": 5,
-          "position": "Midfielder",
-          "photo": "https://media.api-sports.io/football/players/550893.png"
         },
         {
           "id": 89723,
@@ -626,12 +442,12 @@
           "photo": "https://media.api-sports.io/football/players/49469.png"
         },
         {
-          "id": 40401,
-          "name": "Cafú",
-          "age": 32,
-          "number": 8,
+          "id": 651233,
+          "name": "E. Boz",
+          "age": 20,
+          "number": null,
           "position": "Midfielder",
-          "photo": "https://media.api-sports.io/football/players/40401.png"
+          "photo": "https://media.api-sports.io/football/players/651233.png"
         },
         {
           "id": 717,
@@ -642,6 +458,14 @@
           "photo": "https://media.api-sports.io/football/players/717.png"
         },
         {
+          "id": 625224,
+          "name": "M. Deniz",
+          "age": 19,
+          "number": 77,
+          "position": "Midfielder",
+          "photo": "https://media.api-sports.io/football/players/625224.png"
+        },
+        {
           "id": 643103,
           "name": "Burak Gültekin",
           "age": 19,
@@ -650,12 +474,36 @@
           "photo": "https://media.api-sports.io/football/players/643103.png"
         },
         {
-          "id": 21618,
-          "name": "J. Allevinah",
-          "age": 30,
-          "number": 18,
-          "position": "Attacker",
-          "photo": "https://media.api-sports.io/football/players/21618.png"
+          "id": 428299,
+          "name": "J. Jessen",
+          "age": 21,
+          "number": 8,
+          "position": "Midfielder",
+          "photo": "https://media.api-sports.io/football/players/428299.png"
+        },
+        {
+          "id": 438682,
+          "name": "Elson Mendes",
+          "age": 20,
+          "number": 6,
+          "position": "Midfielder",
+          "photo": "https://media.api-sports.io/football/players/438682.png"
+        },
+        {
+          "id": 280495,
+          "name": "A. Müjde",
+          "age": 22,
+          "number": 4,
+          "position": "Midfielder",
+          "photo": "https://media.api-sports.io/football/players/280495.png"
+        },
+        {
+          "id": 338745,
+          "name": "M. Rafferty",
+          "age": 21,
+          "number": 10,
+          "position": "Midfielder",
+          "photo": "https://media.api-sports.io/football/players/338745.png"
         },
         {
           "id": 36906,
@@ -666,20 +514,20 @@
           "photo": "https://media.api-sports.io/football/players/36906.png"
         },
         {
-          "id": 40592,
-          "name": "A. Benedyczak",
-          "age": 25,
-          "number": 19,
-          "position": "Attacker",
-          "photo": "https://media.api-sports.io/football/players/40592.png"
-        },
-        {
           "id": 144693,
           "name": "E. Çetinkaya",
           "age": 24,
           "number": 80,
           "position": "Attacker",
           "photo": "https://media.api-sports.io/football/players/144693.png"
+        },
+        {
+          "id": 667359,
+          "name": "Elysee Dalo Stann",
+          "age": 18,
+          "number": null,
+          "position": "Attacker",
+          "photo": "https://media.api-sports.io/football/players/667359.png"
         },
         {
           "id": 50101,
@@ -690,20 +538,28 @@
           "photo": "https://media.api-sports.io/football/players/50101.png"
         },
         {
+          "id": 329642,
+          "name": "T. Diarra",
+          "age": 22,
+          "number": 7,
+          "position": "Attacker",
+          "photo": "https://media.api-sports.io/football/players/329642.png"
+        },
+        {
+          "id": 8642,
+          "name": "M. Fall",
+          "age": 34,
+          "number": 7,
+          "position": "Attacker",
+          "photo": "https://media.api-sports.io/football/players/8642.png"
+        },
+        {
           "id": 57163,
           "name": "P. Guèye",
           "age": 26,
           "number": 77,
           "position": "Attacker",
           "photo": "https://media.api-sports.io/football/players/57163.png"
-        },
-        {
-          "id": 49857,
-          "name": "İ. Kahveci",
-          "age": 30,
-          "number": 71,
-          "position": "Attacker",
-          "photo": "https://media.api-sports.io/football/players/49857.png"
         },
         {
           "id": 50244,
@@ -720,22 +576,6 @@
           "number": 11,
           "position": "Attacker",
           "photo": "https://media.api-sports.io/football/players/461.png"
-        },
-        {
-          "id": 18768,
-          "name": "C. Tosun",
-          "age": 34,
-          "number": 23,
-          "position": "Attacker",
-          "photo": "https://media.api-sports.io/football/players/18768.png"
-        },
-        {
-          "id": 430449,
-          "name": "Emirhan Yiğit",
-          "age": 19,
-          "number": 42,
-          "position": "Attacker",
-          "photo": "https://media.api-sports.io/football/players/430449.png"
         }
       ]
     },
@@ -787,30 +627,6 @@
           "photo": "https://media.api-sports.io/football/players/201026.png"
         },
         {
-          "id": 1772,
-          "name": "G. Dzhikiya",
-          "age": 32,
-          "number": 14,
-          "position": "Defender",
-          "photo": "https://media.api-sports.io/football/players/1772.png"
-        },
-        {
-          "id": 6050,
-          "name": "L. Gianetti",
-          "age": 32,
-          "number": 30,
-          "position": "Defender",
-          "photo": "https://media.api-sports.io/football/players/6050.png"
-        },
-        {
-          "id": 498676,
-          "name": "E. İzmirlı",
-          "age": 18,
-          "number": 98,
-          "position": "Defender",
-          "photo": "https://media.api-sports.io/football/players/498676.png"
-        },
-        {
           "id": 280235,
           "name": "S. Karakoç",
           "age": 23,
@@ -827,28 +643,12 @@
           "photo": "https://media.api-sports.io/football/players/619618.png"
         },
         {
-          "id": 49963,
-          "name": "B. Öztürk",
-          "age": 30,
-          "number": 5,
-          "position": "Defender",
-          "photo": "https://media.api-sports.io/football/players/49963.png"
-        },
-        {
           "id": 36921,
           "name": "K. Paal",
           "age": 28,
           "number": 3,
           "position": "Defender",
           "photo": "https://media.api-sports.io/football/players/36921.png"
-        },
-        {
-          "id": 50061,
-          "name": "V. Sarı",
-          "age": 37,
-          "number": 89,
-          "position": "Defender",
-          "photo": "https://media.api-sports.io/football/players/50061.png"
         },
         {
           "id": 619707,
@@ -867,14 +667,6 @@
           "photo": "https://media.api-sports.io/football/players/624967.png"
         },
         {
-          "id": 49876,
-          "name": "H. Türkmen",
-          "age": 28,
-          "number": 4,
-          "position": "Defender",
-          "photo": "https://media.api-sports.io/football/players/49876.png"
-        },
-        {
           "id": 49969,
           "name": "B. Balcı",
           "age": 25,
@@ -891,6 +683,14 @@
           "photo": "https://media.api-sports.io/football/players/152609.png"
         },
         {
+          "id": 668763,
+          "name": "Ismail Chehaima",
+          "age": 20,
+          "number": null,
+          "position": "Midfielder",
+          "photo": "https://media.api-sports.io/football/players/668763.png"
+        },
+        {
           "id": 62915,
           "name": "S. Dikmen",
           "age": 32,
@@ -905,14 +705,6 @@
           "number": 20,
           "position": "Midfielder",
           "photo": "https://media.api-sports.io/football/players/513286.png"
-        },
-        {
-          "id": 49883,
-          "name": "A. Ömür",
-          "age": 26,
-          "number": 10,
-          "position": "Midfielder",
-          "photo": "https://media.api-sports.io/football/players/49883.png"
         },
         {
           "id": 627154,
@@ -945,6 +737,14 @@
           "number": 37,
           "position": "Midfielder",
           "photo": "https://media.api-sports.io/football/players/503988.png"
+        },
+        {
+          "id": 2151,
+          "name": "G. Vural",
+          "age": 37,
+          "number": 77,
+          "position": "Midfielder",
+          "photo": "https://media.api-sports.io/football/players/2151.png"
         },
         {
           "id": 37182,
@@ -1060,20 +860,20 @@
           "photo": "https://media.api-sports.io/football/players/64190.png"
         },
         {
-          "id": 62490,
-          "name": "S. Akaydin",
-          "age": 31,
-          "number": 3,
-          "position": "Defender",
-          "photo": "https://media.api-sports.io/football/players/62490.png"
+          "id": 50021,
+          "name": "Z. Görgen",
+          "age": 25,
+          "number": 20,
+          "position": "Goalkeeper",
+          "photo": "https://media.api-sports.io/football/players/50021.png"
         },
         {
-          "id": 73509,
-          "name": "H. Aliqulov",
-          "age": 26,
-          "number": 2,
+          "id": 353540,
+          "name": "Z. Ariss",
+          "age": 21,
+          "number": 5,
           "position": "Defender",
-          "photo": "https://media.api-sports.io/football/players/73509.png"
+          "photo": "https://media.api-sports.io/football/players/353540.png"
         },
         {
           "id": 613183,
@@ -1084,20 +884,12 @@
           "photo": "https://media.api-sports.io/football/players/613183.png"
         },
         {
-          "id": 613182,
-          "name": "E. B. Coban",
-          "age": 17,
-          "number": 22,
+          "id": 385601,
+          "name": "S. Bakayoko",
+          "age": 20,
+          "number": 34,
           "position": "Defender",
-          "photo": "https://media.api-sports.io/football/players/613182.png"
-        },
-        {
-          "id": 15579,
-          "name": "C. Højer",
-          "age": 31,
-          "number": 5,
-          "position": "Defender",
-          "photo": "https://media.api-sports.io/football/players/15579.png"
+          "photo": "https://media.api-sports.io/football/players/385601.png"
         },
         {
           "id": 2335,
@@ -1106,14 +898,6 @@
           "number": 4,
           "position": "Defender",
           "photo": "https://media.api-sports.io/football/players/2335.png"
-        },
-        {
-          "id": 292363,
-          "name": "E. Ortakaya",
-          "age": 21,
-          "number": 65,
-          "position": "Defender",
-          "photo": "https://media.api-sports.io/football/players/292363.png"
         },
         {
           "id": 20661,
@@ -1130,6 +914,22 @@
           "number": 37,
           "position": "Defender",
           "photo": "https://media.api-sports.io/football/players/151971.png"
+        },
+        {
+          "id": 61993,
+          "name": "T. Sanuç",
+          "age": 26,
+          "number": 23,
+          "position": "Defender",
+          "photo": "https://media.api-sports.io/football/players/61993.png"
+        },
+        {
+          "id": 137430,
+          "name": "A. Yaşar",
+          "age": 23,
+          "number": 16,
+          "position": "Defender",
+          "photo": "https://media.api-sports.io/football/players/137430.png"
         },
         {
           "id": 50202,
@@ -1172,20 +972,12 @@
           "photo": "https://media.api-sports.io/football/players/151943.png"
         },
         {
-          "id": 27039,
-          "name": "G. Papanikolaou",
-          "age": 27,
-          "number": 6,
+          "id": 138833,
+          "name": "D. Varešanović",
+          "age": 24,
+          "number": 53,
           "position": "Midfielder",
-          "photo": "https://media.api-sports.io/football/players/27039.png"
-        },
-        {
-          "id": 289306,
-          "name": "Loide Augusto",
-          "age": 25,
-          "number": 50,
-          "position": "Attacker",
-          "photo": "https://media.api-sports.io/football/players/289306.png"
+          "photo": "https://media.api-sports.io/football/players/138833.png"
         },
         {
           "id": 383860,
@@ -1196,12 +988,20 @@
           "photo": "https://media.api-sports.io/football/players/383860.png"
         },
         {
-          "id": 37440,
-          "name": "H. Dervişoğlu",
-          "age": 26,
+          "id": 408200,
+          "name": "M. Faye",
+          "age": 20,
           "number": 11,
           "position": "Attacker",
-          "photo": "https://media.api-sports.io/football/players/37440.png"
+          "photo": "https://media.api-sports.io/football/players/408200.png"
+        },
+        {
+          "id": 422,
+          "name": "A. Kutucu",
+          "age": 25,
+          "number": 21,
+          "position": "Attacker",
+          "photo": "https://media.api-sports.io/football/players/422.png"
         },
         {
           "id": 162418,
@@ -1234,14 +1034,6 @@
           "number": 70,
           "position": "Attacker",
           "photo": "https://media.api-sports.io/football/players/385760.png"
-        },
-        {
-          "id": 8601,
-          "name": "F. Pierrot",
-          "age": 30,
-          "number": 19,
-          "position": "Attacker",
-          "photo": "https://media.api-sports.io/football/players/8601.png"
         },
         {
           "id": 11012,
@@ -1389,14 +1181,6 @@
           "photo": "https://media.api-sports.io/football/players/551010.png"
         },
         {
-          "id": 515608,
-          "name": "Ali Arda Yildiz",
-          "age": 18,
-          "number": 61,
-          "position": "Defender",
-          "photo": "https://media.api-sports.io/football/players/515608.png"
-        },
-        {
           "id": 525935,
           "name": "Halil Eray Aktas",
           "age": 18,
@@ -1494,28 +1278,20 @@
       },
       "players": [
         {
+          "id": 523098,
+          "name": "Ibrahim Kagan Alkis",
+          "age": 20,
+          "number": 95,
+          "position": "Goalkeeper",
+          "photo": "https://media.api-sports.io/football/players/523098.png"
+        },
+        {
           "id": 627119,
           "name": "C. Aslan",
           "age": 17,
           "number": 81,
           "position": "Goalkeeper",
           "photo": "https://media.api-sports.io/football/players/627119.png"
-        },
-        {
-          "id": 61949,
-          "name": "B. Bozan",
-          "age": 25,
-          "number": 71,
-          "position": "Goalkeeper",
-          "photo": "https://media.api-sports.io/football/players/61949.png"
-        },
-        {
-          "id": 50021,
-          "name": "Z. Görgen",
-          "age": 25,
-          "number": 20,
-          "position": "Goalkeeper",
-          "photo": "https://media.api-sports.io/football/players/50021.png"
         },
         {
           "id": 523099,
@@ -1542,17 +1318,9 @@
           "photo": "https://media.api-sports.io/football/players/63284.png"
         },
         {
-          "id": 76867,
-          "name": "N. Mujakić",
-          "age": 27,
-          "number": 5,
-          "position": "Defender",
-          "photo": "https://media.api-sports.io/football/players/76867.png"
-        },
-        {
           "id": 627120,
           "name": "M. Mujdeci",
-          "age": null,
+          "age": 18,
           "number": 83,
           "position": "Defender",
           "photo": "https://media.api-sports.io/football/players/627120.png"
@@ -1564,30 +1332,6 @@
           "number": 2,
           "position": "Defender",
           "photo": "https://media.api-sports.io/football/players/47078.png"
-        },
-        {
-          "id": 47304,
-          "name": "Kévin Rodrigues",
-          "age": 31,
-          "number": 77,
-          "position": "Defender",
-          "photo": "https://media.api-sports.io/football/players/47304.png"
-        },
-        {
-          "id": 49964,
-          "name": "N. Sangaré",
-          "age": 31,
-          "number": 30,
-          "position": "Defender",
-          "photo": "https://media.api-sports.io/football/players/49964.png"
-        },
-        {
-          "id": 61993,
-          "name": "T. Sanuç",
-          "age": 26,
-          "number": 23,
-          "position": "Defender",
-          "photo": "https://media.api-sports.io/football/players/61993.png"
         },
         {
           "id": 312948,
@@ -1620,14 +1364,6 @@
           "number": 8,
           "position": "Midfielder",
           "photo": "https://media.api-sports.io/football/players/554140.png"
-        },
-        {
-          "id": 158431,
-          "name": "M. Kabasakal",
-          "age": 29,
-          "number": 6,
-          "position": "Midfielder",
-          "photo": "https://media.api-sports.io/football/players/158431.png"
         },
         {
           "id": 64304,
@@ -1670,28 +1406,12 @@
           "photo": "https://media.api-sports.io/football/players/626984.png"
         },
         {
-          "id": 24288,
-          "name": "M. Bayo",
-          "age": 27,
-          "number": 9,
+          "id": 19047,
+          "name": "J. Bacuna",
+          "age": 28,
+          "number": 4,
           "position": "Attacker",
-          "photo": "https://media.api-sports.io/football/players/24288.png"
-        },
-        {
-          "id": 43092,
-          "name": "D. Drăguş",
-          "age": 26,
-          "number": 70,
-          "position": "Attacker",
-          "photo": "https://media.api-sports.io/football/players/43092.png"
-        },
-        {
-          "id": 322508,
-          "name": "Y. Kabadayı",
-          "age": 22,
-          "number": 32,
-          "position": "Attacker",
-          "photo": "https://media.api-sports.io/football/players/322508.png"
+          "photo": "https://media.api-sports.io/football/players/19047.png"
         },
         {
           "id": 550865,
@@ -1702,12 +1422,12 @@
           "photo": "https://media.api-sports.io/football/players/550865.png"
         },
         {
-          "id": 100612,
-          "name": "C. Lungoyi",
-          "age": 25,
-          "number": 11,
+          "id": 318345,
+          "name": "E. Kulašin",
+          "age": 22,
+          "number": 27,
           "position": "Attacker",
-          "photo": "https://media.api-sports.io/football/players/100612.png"
+          "photo": "https://media.api-sports.io/football/players/318345.png"
         }
       ]
     },
@@ -1821,14 +1541,6 @@
           "number": 97,
           "position": "Defender",
           "photo": "https://media.api-sports.io/football/players/416281.png"
-        },
-        {
-          "id": 624582,
-          "name": "A. Topal",
-          "age": 18,
-          "number": 68,
-          "position": "Defender",
-          "photo": "https://media.api-sports.io/football/players/624582.png"
         },
         {
           "id": 614410,
@@ -1973,14 +1685,6 @@
           "number": 18,
           "position": "Attacker",
           "photo": "https://media.api-sports.io/football/players/279990.png"
-        },
-        {
-          "id": 499052,
-          "name": "Yilmaz Cin",
-          "age": 17,
-          "number": 17,
-          "position": "Attacker",
-          "photo": "https://media.api-sports.io/football/players/499052.png"
         }
       ]
     },
@@ -2088,20 +1792,20 @@
           "photo": "https://media.api-sports.io/football/players/333551.png"
         },
         {
-          "id": 128850,
-          "name": "M. Yılmaz",
-          "age": 26,
-          "number": 27,
-          "position": "Defender",
-          "photo": "https://media.api-sports.io/football/players/128850.png"
-        },
-        {
           "id": 394216,
           "name": "Emirhan Arkutcu",
           "age": 20,
           "number": 37,
           "position": "Midfielder",
           "photo": "https://media.api-sports.io/football/players/394216.png"
+        },
+        {
+          "id": 626825,
+          "name": "E. Arslan",
+          "age": 20,
+          "number": null,
+          "position": "Midfielder",
+          "photo": "https://media.api-sports.io/football/players/626825.png"
         },
         {
           "id": 327386,
@@ -2128,36 +1832,12 @@
           "photo": "https://media.api-sports.io/football/players/158440.png"
         },
         {
-          "id": 105581,
-          "name": "D. Hotić",
-          "age": 30,
-          "number": 23,
-          "position": "Midfielder",
-          "photo": "https://media.api-sports.io/football/players/105581.png"
-        },
-        {
-          "id": 109504,
-          "name": "O. Imeri",
-          "age": 26,
-          "number": 11,
-          "position": "Midfielder",
-          "photo": "https://media.api-sports.io/football/players/109504.png"
-        },
-        {
           "id": 412791,
           "name": "G. Obekpa",
           "age": 21,
           "number": 18,
           "position": "Midfielder",
           "photo": "https://media.api-sports.io/football/players/412791.png"
-        },
-        {
-          "id": 1365,
-          "name": "A. Potuk",
-          "age": 34,
-          "number": 26,
-          "position": "Midfielder",
-          "photo": "https://media.api-sports.io/football/players/1365.png"
         },
         {
           "id": 368149,
@@ -2265,12 +1945,12 @@
           "photo": "https://media.api-sports.io/football/players/645524.png"
         },
         {
-          "id": 10298,
-          "name": "Marcos Felipe",
-          "age": 29,
+          "id": 42642,
+          "name": "H. Moldovan",
+          "age": 27,
           "number": 1,
           "position": "Goalkeeper",
-          "photo": "https://media.api-sports.io/football/players/10298.png"
+          "photo": "https://media.api-sports.io/football/players/42642.png"
         },
         {
           "id": 630300,
@@ -2279,14 +1959,6 @@
           "number": 60,
           "position": "Goalkeeper",
           "photo": "https://media.api-sports.io/football/players/630300.png"
-        },
-        {
-          "id": 327517,
-          "name": "J. Yılmaz",
-          "age": 21,
-          "number": 24,
-          "position": "Goalkeeper",
-          "photo": "https://media.api-sports.io/football/players/327517.png"
         },
         {
           "id": 630297,
@@ -2305,28 +1977,20 @@
           "photo": "https://media.api-sports.io/football/players/630292.png"
         },
         {
-          "id": 630301,
-          "name": "Levent Deniz",
-          "age": 17,
-          "number": 37,
+          "id": 31386,
+          "name": "J. El Yamiq",
+          "age": 33,
+          "number": 18,
           "position": "Defender",
-          "photo": "https://media.api-sports.io/football/players/630301.png"
+          "photo": "https://media.api-sports.io/football/players/31386.png"
         },
         {
-          "id": 626938,
-          "name": "Burak Isik",
-          "age": 17,
-          "number": 43,
+          "id": 17977,
+          "name": "Z. Jules",
+          "age": 28,
+          "number": 3,
           "position": "Defender",
-          "photo": "https://media.api-sports.io/football/players/626938.png"
-        },
-        {
-          "id": 630302,
-          "name": "Samet Kalan",
-          "age": 17,
-          "number": 62,
-          "position": "Defender",
-          "photo": "https://media.api-sports.io/football/players/630302.png"
+          "photo": "https://media.api-sports.io/football/players/17977.png"
         },
         {
           "id": 133194,
@@ -2337,52 +2001,12 @@
           "photo": "https://media.api-sports.io/football/players/133194.png"
         },
         {
-          "id": 61809,
-          "name": "Luccas Claro",
-          "age": 34,
-          "number": 4,
-          "position": "Defender",
-          "photo": "https://media.api-sports.io/football/players/61809.png"
-        },
-        {
-          "id": 50223,
-          "name": "U. Meraş",
-          "age": 30,
-          "number": 77,
-          "position": "Defender",
-          "photo": "https://media.api-sports.io/football/players/50223.png"
-        },
-        {
           "id": 640066,
           "name": "Diabel Ndoye",
           "age": 18,
           "number": 14,
           "position": "Defender",
           "photo": "https://media.api-sports.io/football/players/640066.png"
-        },
-        {
-          "id": 1083,
-          "name": "J. Onguéné",
-          "age": 28,
-          "number": 68,
-          "position": "Defender",
-          "photo": "https://media.api-sports.io/football/players/1083.png"
-        },
-        {
-          "id": 360121,
-          "name": "B. Özyurt",
-          "age": 22,
-          "number": 5,
-          "position": "Defender",
-          "photo": "https://media.api-sports.io/football/players/360121.png"
-        },
-        {
-          "id": 42729,
-          "name": "D. Radu",
-          "age": 22,
-          "number": 22,
-          "position": "Defender",
-          "photo": "https://media.api-sports.io/football/players/42729.png"
         },
         {
           "id": 626939,
@@ -2401,28 +2025,12 @@
           "photo": "https://media.api-sports.io/football/players/352779.png"
         },
         {
-          "id": 137430,
-          "name": "A. Yaşar",
-          "age": 23,
-          "number": 16,
-          "position": "Defender",
-          "photo": "https://media.api-sports.io/football/players/137430.png"
-        },
-        {
           "id": 451845,
           "name": "A. Popov",
           "age": 19,
           "number": 88,
           "position": "Defender",
           "photo": "https://media.api-sports.io/football/players/451845.png"
-        },
-        {
-          "id": 443,
-          "name": "E. Akbaba",
-          "age": 33,
-          "number": 8,
-          "position": "Midfielder",
-          "photo": "https://media.api-sports.io/football/players/443.png"
         },
         {
           "id": 630295,
@@ -2441,12 +2049,12 @@
           "photo": "https://media.api-sports.io/football/players/630293.png"
         },
         {
-          "id": 371932,
-          "name": "B. Gezek",
-          "age": 20,
-          "number": 55,
+          "id": 427076,
+          "name": "David Costa",
+          "age": 21,
+          "number": 8,
           "position": "Midfielder",
-          "photo": "https://media.api-sports.io/football/players/371932.png"
+          "photo": "https://media.api-sports.io/football/players/427076.png"
         },
         {
           "id": 626940,
@@ -2455,14 +2063,6 @@
           "number": 44,
           "position": "Midfielder",
           "photo": "https://media.api-sports.io/football/players/626940.png"
-        },
-        {
-          "id": 301772,
-          "name": "M. Łęgowski",
-          "age": 23,
-          "number": 20,
-          "position": "Midfielder",
-          "photo": "https://media.api-sports.io/football/players/301772.png"
         },
         {
           "id": 333168,
@@ -2513,20 +2113,20 @@
           "photo": "https://media.api-sports.io/football/players/630298.png"
         },
         {
-          "id": 21447,
-          "name": "U. Bozok",
-          "age": 29,
-          "number": 19,
+          "id": 62185,
+          "name": "M. Demir",
+          "age": 27,
+          "number": 7,
           "position": "Attacker",
-          "photo": "https://media.api-sports.io/football/players/21447.png"
+          "photo": "https://media.api-sports.io/football/players/62185.png"
         },
         {
-          "id": 630305,
-          "name": "Ridvan Canibek",
-          "age": 16,
-          "number": 61,
+          "id": 40452,
+          "name": "K. Michalak",
+          "age": 28,
+          "number": 71,
           "position": "Attacker",
-          "photo": "https://media.api-sports.io/football/players/630305.png"
+          "photo": "https://media.api-sports.io/football/players/40452.png"
         },
         {
           "id": 670,
@@ -2537,28 +2137,12 @@
           "photo": "https://media.api-sports.io/football/players/670.png"
         },
         {
-          "id": 2248,
-          "name": "D. Rotariu",
-          "age": 30,
-          "number": 7,
-          "position": "Attacker",
-          "photo": "https://media.api-sports.io/football/players/2248.png"
-        },
-        {
           "id": 638714,
           "name": "A. K. Sy",
-          "age": null,
+          "age": 18,
           "number": 25,
           "position": "Attacker",
           "photo": "https://media.api-sports.io/football/players/638714.png"
-        },
-        {
-          "id": 128382,
-          "name": "Á. Quiñones",
-          "age": 25,
-          "number": 10,
-          "position": "Attacker",
-          "photo": "https://media.api-sports.io/football/players/128382.png"
         },
         {
           "id": 630299,
@@ -2567,14 +2151,6 @@
           "number": 94,
           "position": "Attacker",
           "photo": "https://media.api-sports.io/football/players/630299.png"
-        },
-        {
-          "id": 630304,
-          "name": "Emir Yalcin",
-          "age": 17,
-          "number": 71,
-          "position": "Attacker",
-          "photo": "https://media.api-sports.io/football/players/630304.png"
         }
       ]
     },
@@ -2586,12 +2162,12 @@
       },
       "players": [
         {
-          "id": 62137,
-          "name": "İ. Eğribayat",
-          "age": 27,
-          "number": 71,
+          "id": 37111,
+          "name": "B. Bayazıt",
+          "age": 26,
+          "number": 25,
           "position": "Goalkeeper",
-          "photo": "https://media.api-sports.io/football/players/62137.png"
+          "photo": "https://media.api-sports.io/football/players/37111.png"
         },
         {
           "id": 640757,
@@ -2608,14 +2184,6 @@
           "number": 1,
           "position": "Goalkeeper",
           "photo": "https://media.api-sports.io/football/players/50217.png"
-        },
-        {
-          "id": 502903,
-          "name": "Efe Berat Töruz",
-          "age": 19,
-          "number": 48,
-          "position": "Goalkeeper",
-          "photo": "https://media.api-sports.io/football/players/502903.png"
         },
         {
           "id": 525877,
@@ -2642,6 +2210,14 @@
           "photo": "https://media.api-sports.io/football/players/41172.png"
         },
         {
+          "id": 368103,
+          "name": "B. Çetin",
+          "age": 19,
+          "number": 96,
+          "position": "Defender",
+          "photo": "https://media.api-sports.io/football/players/368103.png"
+        },
+        {
           "id": 273762,
           "name": "Y. Çift",
           "age": 22,
@@ -2658,14 +2234,6 @@
           "photo": "https://media.api-sports.io/football/players/631673.png"
         },
         {
-          "id": 62681,
-          "name": "S. Gönül",
-          "age": 28,
-          "number": 28,
-          "position": "Defender",
-          "photo": "https://media.api-sports.io/football/players/62681.png"
-        },
-        {
           "id": 310029,
           "name": "J. Mendes",
           "age": 23,
@@ -2674,52 +2242,12 @@
           "photo": "https://media.api-sports.io/football/players/310029.png"
         },
         {
-          "id": 55949,
-          "name": "Ľ. Šatka",
-          "age": 30,
-          "number": 37,
-          "position": "Defender",
-          "photo": "https://media.api-sports.io/football/players/55949.png"
-        },
-        {
           "id": 28806,
           "name": "L. Tómasson",
           "age": 25,
           "number": 17,
           "position": "Defender",
           "photo": "https://media.api-sports.io/football/players/28806.png"
-        },
-        {
-          "id": 24873,
-          "name": "R. van Drongelen",
-          "age": 27,
-          "number": 4,
-          "position": "Defender",
-          "photo": "https://media.api-sports.io/football/players/24873.png"
-        },
-        {
-          "id": 2139,
-          "name": "Z. Yavru",
-          "age": 34,
-          "number": 18,
-          "position": "Defender",
-          "photo": "https://media.api-sports.io/football/players/2139.png"
-        },
-        {
-          "id": 630296,
-          "name": "Muhammet Talha Akyüz",
-          "age": 17,
-          "number": 45,
-          "position": "Midfielder",
-          "photo": "https://media.api-sports.io/football/players/630296.png"
-        },
-        {
-          "id": 528244,
-          "name": "Franck Atoen",
-          "age": 19,
-          "number": 25,
-          "position": "Midfielder",
-          "photo": "https://media.api-sports.io/football/players/528244.png"
         },
         {
           "id": 521018,
@@ -2762,20 +2290,20 @@
           "photo": "https://media.api-sports.io/football/players/290046.png"
         },
         {
-          "id": 1130,
-          "name": "O. Ntcham",
-          "age": 29,
-          "number": 10,
-          "position": "Midfielder",
-          "photo": "https://media.api-sports.io/football/players/1130.png"
-        },
-        {
           "id": 130262,
           "name": "Afonso Sousa",
           "age": 25,
           "number": 77,
           "position": "Midfielder",
           "photo": "https://media.api-sports.io/football/players/130262.png"
+        },
+        {
+          "id": 18749,
+          "name": "E. Watt",
+          "age": 25,
+          "number": 20,
+          "position": "Midfielder",
+          "photo": "https://media.api-sports.io/football/players/18749.png"
         },
         {
           "id": 453,
@@ -2826,6 +2354,14 @@
           "photo": "https://media.api-sports.io/football/players/631674.png"
         },
         {
+          "id": 25223,
+          "name": "F. Kaya",
+          "age": 26,
+          "number": 29,
+          "position": "Attacker",
+          "photo": "https://media.api-sports.io/football/players/25223.png"
+        },
+        {
           "id": 531370,
           "name": "Marius",
           "age": 28,
@@ -2834,20 +2370,20 @@
           "photo": "https://media.api-sports.io/football/players/531370.png"
         },
         {
+          "id": 137403,
+          "name": "A. Muja",
+          "age": 27,
+          "number": 7,
+          "position": "Attacker",
+          "photo": "https://media.api-sports.io/football/players/137403.png"
+        },
+        {
           "id": 14379,
           "name": "C. Ndiaye",
           "age": 30,
           "number": 19,
           "position": "Attacker",
           "photo": "https://media.api-sports.io/football/players/14379.png"
-        },
-        {
-          "id": 611327,
-          "name": "Deniz Şeker",
-          "age": 17,
-          "number": 36,
-          "position": "Attacker",
-          "photo": "https://media.api-sports.io/football/players/611327.png"
         },
         {
           "id": 93001,
@@ -2867,6 +2403,14 @@
       },
       "players": [
         {
+          "id": 50104,
+          "name": "D. Alemdar",
+          "age": 23,
+          "number": 80,
+          "position": "Goalkeeper",
+          "photo": "https://media.api-sports.io/football/players/50104.png"
+        },
+        {
           "id": 275090,
           "name": "E. Bilgin",
           "age": 21,
@@ -2875,20 +2419,12 @@
           "photo": "https://media.api-sports.io/football/players/275090.png"
         },
         {
-          "id": 1971,
-          "name": "E. Destanoğlu",
-          "age": 25,
-          "number": 30,
+          "id": 399,
+          "name": "A. Nübel",
+          "age": 29,
+          "number": 1,
           "position": "Goalkeeper",
-          "photo": "https://media.api-sports.io/football/players/1971.png"
-        },
-        {
-          "id": 81012,
-          "name": "D. Vásquez",
-          "age": 27,
-          "number": 32,
-          "position": "Goalkeeper",
-          "photo": "https://media.api-sports.io/football/players/81012.png"
+          "photo": "https://media.api-sports.io/football/players/399.png"
         },
         {
           "id": 544926,
@@ -2923,12 +2459,36 @@
           "photo": "https://media.api-sports.io/football/players/1479.png"
         },
         {
+          "id": 667581,
+          "name": "C. Gursel",
+          "age": 19,
+          "number": 65,
+          "position": "Defender",
+          "photo": "https://media.api-sports.io/football/players/667581.png"
+        },
+        {
+          "id": 550896,
+          "name": "A. E. Isik",
+          "age": 18,
+          "number": 51,
+          "position": "Defender",
+          "photo": "https://media.api-sports.io/football/players/550896.png"
+        },
+        {
           "id": 2973,
           "name": "A. Murillo",
           "age": 29,
           "number": 62,
           "position": "Defender",
           "photo": "https://media.api-sports.io/football/players/2973.png"
+        },
+        {
+          "id": 333137,
+          "name": "K. Ouattara",
+          "age": 21,
+          "number": 11,
+          "position": "Defender",
+          "photo": "https://media.api-sports.io/football/players/333137.png"
         },
         {
           "id": 544790,
@@ -2963,12 +2523,12 @@
           "photo": "https://media.api-sports.io/football/players/1987.png"
         },
         {
-          "id": 275776,
-          "name": "K. Asllani",
-          "age": 23,
-          "number": 23,
+          "id": 361397,
+          "name": "Fahri Kerem Ay",
+          "age": 21,
+          "number": 33,
           "position": "Midfielder",
-          "photo": "https://media.api-sports.io/football/players/275776.png"
+          "photo": "https://media.api-sports.io/football/players/361397.png"
         },
         {
           "id": 549,
@@ -2979,10 +2539,26 @@
           "photo": "https://media.api-sports.io/football/players/549.png"
         },
         {
+          "id": 446824,
+          "name": "I. Fakili",
+          "age": 19,
+          "number": 29,
+          "position": "Midfielder",
+          "photo": "https://media.api-sports.io/football/players/446824.png"
+        },
+        {
+          "id": 50006,
+          "name": "A. Hadžiahmetović",
+          "age": 28,
+          "number": 5,
+          "position": "Midfielder",
+          "photo": "https://media.api-sports.io/football/players/50006.png"
+        },
+        {
           "id": 1998,
           "name": "K. Yılmaz",
           "age": 25,
-          "number": 17,
+          "number": 8,
           "position": "Midfielder",
           "photo": "https://media.api-sports.io/football/players/1998.png"
         },
@@ -3011,6 +2587,14 @@
           "photo": "https://media.api-sports.io/football/players/316904.png"
         },
         {
+          "id": 24807,
+          "name": "S. Özcan",
+          "age": 27,
+          "number": 6,
+          "position": "Midfielder",
+          "photo": "https://media.api-sports.io/football/players/24807.png"
+        },
+        {
           "id": 25324,
           "name": "M. Rashica",
           "age": 29,
@@ -3023,38 +2607,14 @@
           "name": "Devrim Sahin",
           "age": 18,
           "number": 52,
-          "position": "Midfielder",
+          "position": "Attacker",
           "photo": "https://media.api-sports.io/football/players/529859.png"
-        },
-        {
-          "id": 62158,
-          "name": "G. Sazdağı",
-          "age": 31,
-          "number": 25,
-          "position": "Midfielder",
-          "photo": "https://media.api-sports.io/football/players/62158.png"
-        },
-        {
-          "id": 31058,
-          "name": "S. Uçan",
-          "age": 32,
-          "number": 8,
-          "position": "Midfielder",
-          "photo": "https://media.api-sports.io/football/players/31058.png"
-        },
-        {
-          "id": 1997,
-          "name": "N. Uysal",
-          "age": 35,
-          "number": 20,
-          "position": "Midfielder",
-          "photo": "https://media.api-sports.io/football/players/1997.png"
         },
         {
           "id": 630520,
           "name": "Sami Bircan Ahmet",
           "age": 18,
-          "number": 80,
+          "number": 70,
           "position": "Attacker",
           "photo": "https://media.api-sports.io/football/players/630520.png"
         },
@@ -3062,17 +2622,17 @@
           "id": 436179,
           "name": "M. Hekimoğlu",
           "age": 18,
-          "number": 91,
+          "number": 23,
           "position": "Attacker",
           "photo": "https://media.api-sports.io/football/players/436179.png"
         },
         {
-          "id": 141901,
-          "name": "Jota Silva",
-          "age": 26,
-          "number": 26,
+          "id": 336567,
+          "name": "S. Kılıçsoy",
+          "age": 20,
+          "number": 90,
           "position": "Attacker",
-          "photo": "https://media.api-sports.io/football/players/141901.png"
+          "photo": "https://media.api-sports.io/football/players/336567.png"
         },
         {
           "id": 34710,
@@ -3091,20 +2651,12 @@
           "photo": "https://media.api-sports.io/football/players/633057.png"
         },
         {
-          "id": 194750,
-          "name": "E. Touré",
-          "age": 24,
+          "id": 1946,
+          "name": "L. Trossard",
+          "age": 31,
           "number": 19,
           "position": "Attacker",
-          "photo": "https://media.api-sports.io/football/players/194750.png"
-        },
-        {
-          "id": 785,
-          "name": "C. Ünder",
-          "age": 28,
-          "number": 11,
-          "position": "Attacker",
-          "photo": "https://media.api-sports.io/football/players/785.png"
+          "photo": "https://media.api-sports.io/football/players/1946.png"
         }
       ]
     },
@@ -3116,20 +2668,20 @@
       },
       "players": [
         {
-          "id": 50104,
-          "name": "D. Alemdar",
-          "age": 23,
-          "number": 80,
-          "position": "Goalkeeper",
-          "photo": "https://media.api-sports.io/football/players/50104.png"
-        },
-        {
           "id": 49835,
           "name": "V. Babacan",
           "age": 37,
           "number": 1,
           "position": "Goalkeeper",
           "photo": "https://media.api-sports.io/football/players/49835.png"
+        },
+        {
+          "id": 544891,
+          "name": "D. Dilmen",
+          "age": 20,
+          "number": 98,
+          "position": "Goalkeeper",
+          "photo": "https://media.api-sports.io/football/players/544891.png"
         },
         {
           "id": 50218,
@@ -3148,20 +2700,20 @@
           "photo": "https://media.api-sports.io/football/players/20968.png"
         },
         {
+          "id": 162513,
+          "name": "E. Bayram",
+          "age": 22,
+          "number": 23,
+          "position": "Defender",
+          "photo": "https://media.api-sports.io/football/players/162513.png"
+        },
+        {
           "id": 26275,
           "name": "O. Bulut",
           "age": 31,
           "number": 6,
           "position": "Defender",
           "photo": "https://media.api-sports.io/football/players/26275.png"
-        },
-        {
-          "id": 10160,
-          "name": "Léo Duarte",
-          "age": 29,
-          "number": 5,
-          "position": "Defender",
-          "photo": "https://media.api-sports.io/football/players/10160.png"
         },
         {
           "id": 161638,
@@ -3180,12 +2732,20 @@
           "photo": "https://media.api-sports.io/football/players/443739.png"
         },
         {
-          "id": 145057,
-          "name": "K. Karataş",
-          "age": 23,
-          "number": 88,
+          "id": 125618,
+          "name": "M. Karbownik",
+          "age": 24,
+          "number": 33,
           "position": "Defender",
-          "photo": "https://media.api-sports.io/football/players/145057.png"
+          "photo": "https://media.api-sports.io/football/players/125618.png"
+        },
+        {
+          "id": 444482,
+          "name": "S. Kharebashvili",
+          "age": 17,
+          "number": 5,
+          "position": "Defender",
+          "photo": "https://media.api-sports.io/football/players/444482.png"
         },
         {
           "id": 20836,
@@ -3204,14 +2764,6 @@
           "photo": "https://media.api-sports.io/football/players/137223.png"
         },
         {
-          "id": 41973,
-          "name": "Miguel Crespo",
-          "age": 29,
-          "number": 13,
-          "position": "Midfielder",
-          "photo": "https://media.api-sports.io/football/players/41973.png"
-        },
-        {
           "id": 62114,
           "name": "O. Ergün",
           "age": 33,
@@ -3226,14 +2778,6 @@
           "number": 20,
           "position": "Midfielder",
           "photo": "https://media.api-sports.io/football/players/128968.png"
-        },
-        {
-          "id": 412,
-          "name": "A. Harit",
-          "age": 28,
-          "number": 25,
-          "position": "Midfielder",
-          "photo": "https://media.api-sports.io/football/players/412.png"
         },
         {
           "id": 197784,
@@ -3252,10 +2796,18 @@
           "photo": "https://media.api-sports.io/football/players/85205.png"
         },
         {
+          "id": 24885,
+          "name": "B. Özcan",
+          "age": 27,
+          "number": 19,
+          "position": "Midfielder",
+          "photo": "https://media.api-sports.io/football/players/24885.png"
+        },
+        {
           "id": 61820,
           "name": "B. Özdemir",
           "age": 27,
-          "number": 2,
+          "number": 5,
           "position": "Midfielder",
           "photo": "https://media.api-sports.io/football/players/61820.png"
         },
@@ -3268,11 +2820,35 @@
           "photo": "https://media.api-sports.io/football/players/50018.png"
         },
         {
+          "id": 460587,
+          "name": "T. Turhan",
+          "age": 18,
+          "number": 59,
+          "position": "Midfielder",
+          "photo": "https://media.api-sports.io/football/players/460587.png"
+        },
+        {
+          "id": 49860,
+          "name": "E. Višća",
+          "age": 35,
+          "number": 7,
+          "position": "Midfielder",
+          "photo": "https://media.api-sports.io/football/players/49860.png"
+        },
+        {
+          "id": 508266,
+          "name": "Abdoulaye Yoro",
+          "age": 19,
+          "number": 26,
+          "position": "Midfielder",
+          "photo": "https://media.api-sports.io/football/players/508266.png"
+        },
+        {
           "id": 14602,
           "name": "I. Brnić",
           "age": 24,
           "number": 77,
-          "position": "Attacker",
+          "position": "Midfielder",
           "photo": "https://media.api-sports.io/football/players/14602.png"
         },
         {
@@ -3288,7 +2864,7 @@
           "name": "A. Fayzullaev",
           "age": 22,
           "number": 11,
-          "position": "Attacker",
+          "position": "Midfielder",
           "photo": "https://media.api-sports.io/football/players/263676.png"
         },
         {
@@ -3296,7 +2872,7 @@
           "name": "Y. Sarı",
           "age": 27,
           "number": 7,
-          "position": "Attacker",
+          "position": "Midfielder",
           "photo": "https://media.api-sports.io/football/players/1921.png"
         },
         {
@@ -3312,7 +2888,7 @@
           "name": "E. Shomurodov",
           "age": 30,
           "number": 14,
-          "position": "Attacker",
+          "position": "Midfielder",
           "photo": "https://media.api-sports.io/football/players/53535.png"
         },
         {
@@ -3365,12 +2941,28 @@
           "photo": "https://media.api-sports.io/football/players/617.png"
         },
         {
+          "id": 62137,
+          "name": "İ. Eğribayat",
+          "age": 27,
+          "number": 71,
+          "position": "Goalkeeper",
+          "photo": "https://media.api-sports.io/football/players/62137.png"
+        },
+        {
           "id": 49837,
           "name": "M. Günok",
           "age": 36,
           "number": 34,
           "position": "Goalkeeper",
           "photo": "https://media.api-sports.io/football/players/49837.png"
+        },
+        {
+          "id": 18861,
+          "name": "N. Aké",
+          "age": 30,
+          "number": 15,
+          "position": "Defender",
+          "photo": "https://media.api-sports.io/football/players/18861.png"
         },
         {
           "id": 161661,
@@ -3389,12 +2981,36 @@
           "photo": "https://media.api-sports.io/football/players/364594.png"
         },
         {
+          "id": 381812,
+          "name": "Omar Fayed",
+          "age": 22,
+          "number": 66,
+          "position": "Defender",
+          "photo": "https://media.api-sports.io/football/players/381812.png"
+        },
+        {
+          "id": 436386,
+          "name": "Yiğit Fidan",
+          "age": 20,
+          "number": 88,
+          "position": "Defender",
+          "photo": "https://media.api-sports.io/football/players/436386.png"
+        },
+        {
           "id": 127609,
           "name": "L. Mercan",
           "age": 25,
           "number": 22,
           "position": "Defender",
           "photo": "https://media.api-sports.io/football/players/127609.png"
+        },
+        {
+          "id": 340727,
+          "name": "O. MimoviÄ",
+          "age": 21,
+          "number": 21,
+          "position": "Defender",
+          "photo": "https://media.api-sports.io/football/players/340727.png"
         },
         {
           "id": 1719,
@@ -3413,20 +3029,20 @@
           "photo": "https://media.api-sports.io/football/players/272721.png"
         },
         {
+          "id": 829,
+          "name": "Rodrigo Becão",
+          "age": 30,
+          "number": 50,
+          "position": "Defender",
+          "photo": "https://media.api-sports.io/football/players/829.png"
+        },
+        {
           "id": 130,
           "name": "Nélson Semedo",
           "age": 32,
           "number": 27,
           "position": "Defender",
           "photo": "https://media.api-sports.io/football/players/130.png"
-        },
-        {
-          "id": 616727,
-          "name": "Y. Sen",
-          "age": 17,
-          "number": 2,
-          "position": "Defender",
-          "photo": "https://media.api-sports.io/football/players/616727.png"
         },
         {
           "id": 198,
@@ -3453,20 +3069,20 @@
           "photo": "https://media.api-sports.io/football/players/625426.png"
         },
         {
-          "id": 2869,
-          "name": "E. Álvarez",
-          "age": 28,
-          "number": 11,
-          "position": "Midfielder",
-          "photo": "https://media.api-sports.io/football/players/2869.png"
-        },
-        {
           "id": 134590,
           "name": "O. Aydın",
           "age": 25,
           "number": 70,
-          "position": "Midfielder",
+          "position": "Attacker",
           "photo": "https://media.api-sports.io/football/players/134590.png"
+        },
+        {
+          "id": 50129,
+          "name": "E. Demir",
+          "age": 22,
+          "number": 14,
+          "position": "Midfielder",
+          "photo": "https://media.api-sports.io/football/players/50129.png"
         },
         {
           "id": 630584,
@@ -3475,6 +3091,14 @@
           "number": 54,
           "position": "Midfielder",
           "photo": "https://media.api-sports.io/football/players/630584.png"
+        },
+        {
+          "id": 162004,
+          "name": "B. Elmaz",
+          "age": 22,
+          "number": 28,
+          "position": "Midfielder",
+          "photo": "https://media.api-sports.io/football/players/162004.png"
         },
         {
           "id": 647548,
@@ -3521,7 +3145,7 @@
           "name": "Talisca",
           "age": 32,
           "number": 94,
-          "position": "Midfielder",
+          "position": "Attacker",
           "photo": "https://media.api-sports.io/football/players/12724.png"
         },
         {
@@ -3537,15 +3161,15 @@
           "name": "K. Aktürkoğlu",
           "age": 27,
           "number": 9,
-          "position": "Attacker",
+          "position": "Midfielder",
           "photo": "https://media.api-sports.io/football/players/142959.png"
         },
         {
           "id": 746,
           "name": "Marco Asensio",
           "age": 30,
-          "number": 21,
-          "position": "Attacker",
+          "number": 10,
+          "position": "Midfielder",
           "photo": "https://media.api-sports.io/football/players/746.png"
         },
         {
@@ -3557,6 +3181,46 @@
           "photo": "https://media.api-sports.io/football/players/421875.png"
         },
         {
+          "id": 417861,
+          "name": "A. Diouf",
+          "age": 17,
+          "number": null,
+          "position": "Attacker",
+          "photo": "https://media.api-sports.io/football/players/417861.png"
+        },
+        {
+          "id": 601310,
+          "name": "C. Fedai",
+          "age": 19,
+          "number": 20,
+          "position": "Attacker",
+          "photo": "https://media.api-sports.io/football/players/601310.png"
+        },
+        {
+          "id": 897,
+          "name": "M. Greenwood",
+          "age": 24,
+          "number": 11,
+          "position": "Attacker",
+          "photo": "https://media.api-sports.io/football/players/897.png"
+        },
+        {
+          "id": 49857,
+          "name": "İ. Kahveci",
+          "age": 30,
+          "number": 17,
+          "position": "Midfielder",
+          "photo": "https://media.api-sports.io/football/players/49857.png"
+        },
+        {
+          "id": 50048,
+          "name": "V. Muriqi",
+          "age": 31,
+          "number": 7,
+          "position": "Attacker",
+          "photo": "https://media.api-sports.io/football/players/50048.png"
+        },
+        {
           "id": 37380,
           "name": "A. Musaba",
           "age": 25,
@@ -3565,20 +3229,20 @@
           "photo": "https://media.api-sports.io/football/players/37380.png"
         },
         {
-          "id": 634143,
-          "name": "E. Sancakli",
-          "age": 17,
-          "number": 79,
-          "position": "Attacker",
-          "photo": "https://media.api-sports.io/football/players/634143.png"
-        },
-        {
           "id": 602697,
           "name": "E. Sayar",
           "age": 17,
           "number": 16,
           "position": "Attacker",
           "photo": "https://media.api-sports.io/football/players/602697.png"
+        },
+        {
+          "id": 785,
+          "name": "C. Ünder",
+          "age": 28,
+          "number": 11,
+          "position": "Attacker",
+          "photo": "https://media.api-sports.io/football/players/785.png"
         }
       ]
     },
@@ -3606,20 +3270,20 @@
           "photo": "https://media.api-sports.io/football/players/61950.png"
         },
         {
-          "id": 430,
-          "name": "B. Şen",
-          "age": 27,
-          "number": 12,
-          "position": "Goalkeeper",
-          "photo": "https://media.api-sports.io/football/players/430.png"
-        },
-        {
           "id": 568439,
           "name": "A. Yilmaz",
           "age": 17,
           "number": 60,
           "position": "Goalkeeper",
           "photo": "https://media.api-sports.io/football/players/568439.png"
+        },
+        {
+          "id": 327517,
+          "name": "J. Yılmaz",
+          "age": 21,
+          "number": 24,
+          "position": "Goalkeeper",
+          "photo": "https://media.api-sports.io/football/players/327517.png"
         },
         {
           "id": 25448,
@@ -3638,12 +3302,12 @@
           "photo": "https://media.api-sports.io/football/players/61837.png"
         },
         {
-          "id": 2195,
-          "name": "S. Boey",
-          "age": 25,
-          "number": 93,
+          "id": 339951,
+          "name": "A. Bülbül",
+          "age": 20,
+          "number": 81,
           "position": "Defender",
-          "photo": "https://media.api-sports.io/football/players/2195.png"
+          "photo": "https://media.api-sports.io/football/players/339951.png"
         },
         {
           "id": 50057,
@@ -3662,12 +3326,36 @@
           "photo": "https://media.api-sports.io/football/players/158121.png"
         },
         {
+          "id": 341234,
+          "name": "E. Jelert",
+          "age": 22,
+          "number": 12,
+          "position": "Defender",
+          "photo": "https://media.api-sports.io/football/players/341234.png"
+        },
+        {
           "id": 568393,
           "name": "Y. Kahraman",
           "age": 17,
           "number": 64,
           "position": "Defender",
           "photo": "https://media.api-sports.io/football/players/568393.png"
+        },
+        {
+          "id": 145057,
+          "name": "K. Karataş",
+          "age": 23,
+          "number": 88,
+          "position": "Defender",
+          "photo": "https://media.api-sports.io/football/players/145057.png"
+        },
+        {
+          "id": 15912,
+          "name": "V. Nelsson",
+          "age": 27,
+          "number": 25,
+          "position": "Defender",
+          "photo": "https://media.api-sports.io/football/players/15912.png"
         },
         {
           "id": 26252,
@@ -3702,20 +3390,12 @@
           "photo": "https://media.api-sports.io/football/players/404443.png"
         },
         {
-          "id": 567984,
-          "name": "C. Akgun",
-          "age": 16,
-          "number": 71,
+          "id": 550893,
+          "name": "E. Aydin",
+          "age": 21,
+          "number": 5,
           "position": "Midfielder",
-          "photo": "https://media.api-sports.io/football/players/567984.png"
-        },
-        {
-          "id": 281795,
-          "name": "Y. Asprilla",
-          "age": 22,
-          "number": 22,
-          "position": "Midfielder",
-          "photo": "https://media.api-sports.io/football/players/281795.png"
+          "photo": "https://media.api-sports.io/football/players/550893.png"
         },
         {
           "id": 80552,
@@ -3732,22 +3412,6 @@
           "number": 20,
           "position": "Midfielder",
           "photo": "https://media.api-sports.io/football/players/633.png"
-        },
-        {
-          "id": 394222,
-          "name": "Gökdeniz Gürpüz",
-          "age": 19,
-          "number": 33,
-          "position": "Midfielder",
-          "photo": "https://media.api-sports.io/football/players/394222.png"
-        },
-        {
-          "id": 18947,
-          "name": "M. Lemina",
-          "age": 32,
-          "number": 99,
-          "position": "Midfielder",
-          "photo": "https://media.api-sports.io/football/players/18947.png"
         },
         {
           "id": 518567,
@@ -3774,12 +3438,28 @@
           "photo": "https://media.api-sports.io/football/players/1462.png"
         },
         {
+          "id": 270508,
+          "name": "L. Ugochukwu",
+          "age": 21,
+          "number": 18,
+          "position": "Midfielder",
+          "photo": "https://media.api-sports.io/football/players/270508.png"
+        },
+        {
           "id": 454,
           "name": "Y. Akgün",
           "age": 25,
           "number": 11,
           "position": "Attacker",
           "photo": "https://media.api-sports.io/football/players/454.png"
+        },
+        {
+          "id": 394223,
+          "name": "Recep Yalın Dilek",
+          "age": 19,
+          "number": 22,
+          "position": "Attacker",
+          "photo": "https://media.api-sports.io/football/players/394223.png"
         },
         {
           "id": 585709,
@@ -3790,14 +3470,6 @@
           "photo": "https://media.api-sports.io/football/players/585709.png"
         },
         {
-          "id": 216,
-          "name": "M. Icardi",
-          "age": 32,
-          "number": 9,
-          "position": "Attacker",
-          "photo": "https://media.api-sports.io/football/players/216.png"
-        },
-        {
           "id": 498673,
           "name": "F. Koçak",
           "age": 17,
@@ -3806,20 +3478,12 @@
           "photo": "https://media.api-sports.io/football/players/498673.png"
         },
         {
-          "id": 422,
-          "name": "A. Kutucu",
-          "age": 25,
-          "number": 21,
+          "id": 492270,
+          "name": "Berat Luş",
+          "age": 18,
+          "number": 76,
           "position": "Attacker",
-          "photo": "https://media.api-sports.io/football/players/422.png"
-        },
-        {
-          "id": 544,
-          "name": "N. Lang",
-          "age": 26,
-          "number": 77,
-          "position": "Attacker",
-          "photo": "https://media.api-sports.io/football/players/544.png"
+          "photo": "https://media.api-sports.io/football/players/492270.png"
         },
         {
           "id": 2780,
@@ -3863,20 +3527,12 @@
       },
       "players": [
         {
-          "id": 62167,
-          "name": "E. Kılıçarslan",
-          "age": 28,
-          "number": 17,
-          "position": "Goalkeeper",
-          "photo": "https://media.api-sports.io/football/players/62167.png"
-        },
-        {
-          "id": 40165,
-          "name": "M. Lis",
-          "age": 28,
+          "id": 50165,
+          "name": "A. Özçimen",
+          "age": 24,
           "number": 1,
           "position": "Goalkeeper",
-          "photo": "https://media.api-sports.io/football/players/40165.png"
+          "photo": "https://media.api-sports.io/football/players/50165.png"
         },
         {
           "id": 368122,
@@ -3927,22 +3583,6 @@
           "photo": "https://media.api-sports.io/football/players/195897.png"
         },
         {
-          "id": 119682,
-          "name": "Héliton",
-          "age": 30,
-          "number": 5,
-          "position": "Defender",
-          "photo": "https://media.api-sports.io/football/players/119682.png"
-        },
-        {
-          "id": 1346,
-          "name": "İ. Köybaşı",
-          "age": 36,
-          "number": 12,
-          "position": "Defender",
-          "photo": "https://media.api-sports.io/football/players/1346.png"
-        },
-        {
           "id": 303493,
           "name": "N. Dismas",
           "age": 23,
@@ -3951,20 +3591,20 @@
           "photo": "https://media.api-sports.io/football/players/303493.png"
         },
         {
+          "id": 48091,
+          "name": "N. Sonko-Sundberg",
+          "age": 29,
+          "number": 20,
+          "position": "Defender",
+          "photo": "https://media.api-sports.io/football/players/48091.png"
+        },
+        {
           "id": 437786,
           "name": "Ege Yildirim",
           "age": 18,
           "number": 45,
           "position": "Defender",
           "photo": "https://media.api-sports.io/football/players/437786.png"
-        },
-        {
-          "id": 143827,
-          "name": "U. Yıldız",
-          "age": 23,
-          "number": 22,
-          "position": "Defender",
-          "photo": "https://media.api-sports.io/football/players/143827.png"
         },
         {
           "id": 301272,
@@ -3991,20 +3631,20 @@
           "photo": "https://media.api-sports.io/football/players/26128.png"
         },
         {
-          "id": 633093,
-          "name": "Abdulsamed Bildirici",
-          "age": 19,
-          "number": null,
-          "position": "Midfielder",
-          "photo": "https://media.api-sports.io/football/players/633093.png"
-        },
-        {
           "id": 414142,
           "name": "A. Dennis",
           "age": 21,
           "number": 30,
           "position": "Midfielder",
           "photo": "https://media.api-sports.io/football/players/414142.png"
+        },
+        {
+          "id": 54699,
+          "name": "Rhaldney",
+          "age": 27,
+          "number": 26,
+          "position": "Midfielder",
+          "photo": "https://media.api-sports.io/football/players/54699.png"
         },
         {
           "id": 507389,
@@ -4015,14 +3655,6 @@
           "photo": "https://media.api-sports.io/football/players/507389.png"
         },
         {
-          "id": 11245,
-          "name": "F. Krastev",
-          "age": 24,
-          "number": 10,
-          "position": "Midfielder",
-          "photo": "https://media.api-sports.io/football/players/11245.png"
-        },
-        {
           "id": 305863,
           "name": "M. Mohammed",
           "age": 24,
@@ -4031,20 +3663,36 @@
           "photo": "https://media.api-sports.io/football/players/305863.png"
         },
         {
+          "id": 668137,
+          "name": "B. Sarigul",
+          "age": 19,
+          "number": null,
+          "position": "Midfielder",
+          "photo": "https://media.api-sports.io/football/players/668137.png"
+        },
+        {
+          "id": 237847,
+          "name": "André Henrique",
+          "age": 24,
+          "number": 77,
+          "position": "Attacker",
+          "photo": "https://media.api-sports.io/football/players/237847.png"
+        },
+        {
+          "id": 199863,
+          "name": "S. Armstrong",
+          "age": 22,
+          "number": 30,
+          "position": "Attacker",
+          "photo": "https://media.api-sports.io/football/players/199863.png"
+        },
+        {
           "id": 353394,
           "name": "Janderson",
           "age": 26,
           "number": 39,
           "position": "Attacker",
           "photo": "https://media.api-sports.io/football/players/353394.png"
-        },
-        {
-          "id": 308120,
-          "name": "Jeh",
-          "age": 26,
-          "number": 19,
-          "position": "Attacker",
-          "photo": "https://media.api-sports.io/football/players/308120.png"
         },
         {
           "id": 180916,
@@ -4061,6 +3709,22 @@
           "number": 2,
           "position": "Attacker",
           "photo": "https://media.api-sports.io/football/players/328155.png"
+        },
+        {
+          "id": 289618,
+          "name": "Alex Matos",
+          "age": 21,
+          "number": 28,
+          "position": "Attacker",
+          "photo": "https://media.api-sports.io/football/players/289618.png"
+        },
+        {
+          "id": 432841,
+          "name": "Ibrahim Sabra",
+          "age": 20,
+          "number": 9,
+          "position": "Attacker",
+          "photo": "https://media.api-sports.io/football/players/432841.png"
         },
         {
           "id": 657670,
@@ -4088,30 +3752,6 @@
           "photo": "https://media.api-sports.io/football/players/637863.png"
         },
         {
-          "id": 633976,
-          "name": "Cihan Memik",
-          "age": 18,
-          "number": 99,
-          "position": "Goalkeeper",
-          "photo": "https://media.api-sports.io/football/players/633976.png"
-        },
-        {
-          "id": 10476,
-          "name": "Paulo Victor",
-          "age": 39,
-          "number": 48,
-          "position": "Goalkeeper",
-          "photo": "https://media.api-sports.io/football/players/10476.png"
-        },
-        {
-          "id": 49991,
-          "name": "E. Taşkıran",
-          "age": 36,
-          "number": 1,
-          "position": "Goalkeeper",
-          "photo": "https://media.api-sports.io/football/players/49991.png"
-        },
-        {
           "id": 367637,
           "name": "Ü. Akdağ",
           "age": 22,
@@ -4134,14 +3774,6 @@
           "number": 5,
           "position": "Defender",
           "photo": "https://media.api-sports.io/football/players/48211.png"
-        },
-        {
-          "id": 41100,
-          "name": "Bruno Viana",
-          "age": 30,
-          "number": 30,
-          "position": "Defender",
-          "photo": "https://media.api-sports.io/football/players/41100.png"
         },
         {
           "id": 19042,
@@ -4168,28 +3800,12 @@
           "photo": "https://media.api-sports.io/football/players/282946.png"
         },
         {
-          "id": 334137,
-          "name": "B. Moğultay",
-          "age": 21,
-          "number": 18,
-          "position": "Defender",
-          "photo": "https://media.api-sports.io/football/players/334137.png"
-        },
-        {
           "id": 361360,
           "name": "Batuhan Yavuz",
           "age": 20,
           "number": 2,
           "position": "Defender",
           "photo": "https://media.api-sports.io/football/players/361360.png"
-        },
-        {
-          "id": 645178,
-          "name": "B. Bulut",
-          "age": 23,
-          "number": 25,
-          "position": "Midfielder",
-          "photo": "https://media.api-sports.io/football/players/645178.png"
         },
         {
           "id": 282773,
@@ -4206,30 +3822,6 @@
           "number": 14,
           "position": "Midfielder",
           "photo": "https://media.api-sports.io/football/players/43084.png"
-        },
-        {
-          "id": 2211,
-          "name": "N. Janvier",
-          "age": 27,
-          "number": 17,
-          "position": "Midfielder",
-          "photo": "https://media.api-sports.io/football/players/2211.png"
-        },
-        {
-          "id": 49941,
-          "name": "E. Karaca",
-          "age": 36,
-          "number": 7,
-          "position": "Midfielder",
-          "photo": "https://media.api-sports.io/football/players/49941.png"
-        },
-        {
-          "id": 593488,
-          "name": "Yusuf Karademir",
-          "age": 17,
-          "number": 38,
-          "position": "Midfielder",
-          "photo": "https://media.api-sports.io/football/players/593488.png"
         },
         {
           "id": 302392,
@@ -4256,12 +3848,12 @@
           "photo": "https://media.api-sports.io/football/players/41975.png"
         },
         {
-          "id": 629170,
-          "name": "Mehmet Oz",
-          "age": 17,
-          "number": 15,
-          "position": "Midfielder",
-          "photo": "https://media.api-sports.io/football/players/629170.png"
+          "id": 463330,
+          "name": "O. Ben Ali",
+          "age": 21,
+          "number": 9,
+          "position": "Attacker",
+          "photo": "https://media.api-sports.io/football/players/463330.png"
         },
         {
           "id": 3034,
@@ -4280,20 +3872,20 @@
           "photo": "https://media.api-sports.io/football/players/2910.png"
         },
         {
-          "id": 3395,
-          "name": "S. Mounié",
-          "age": 31,
-          "number": 9,
-          "position": "Attacker",
-          "photo": "https://media.api-sports.io/football/players/3395.png"
-        },
-        {
           "id": 384398,
           "name": "Ruan",
           "age": 20,
           "number": 11,
           "position": "Attacker",
           "photo": "https://media.api-sports.io/football/players/384398.png"
+        },
+        {
+          "id": 354082,
+          "name": "A. Usluoğlu",
+          "age": 19,
+          "number": 9,
+          "position": "Attacker",
+          "photo": "https://media.api-sports.io/football/players/354082.png"
         },
         {
           "id": 2005,
@@ -4340,9 +3932,17 @@
           "id": 479721,
           "name": "A. Yıldırım",
           "age": 19,
-          "number": 88,
+          "number": 1,
           "position": "Goalkeeper",
           "photo": "https://media.api-sports.io/football/players/479721.png"
+        },
+        {
+          "id": 62490,
+          "name": "S. Akaydin",
+          "age": 31,
+          "number": 4,
+          "position": "Defender",
+          "photo": "https://media.api-sports.io/football/players/62490.png"
         },
         {
           "id": 63627,
@@ -4353,6 +3953,14 @@
           "photo": "https://media.api-sports.io/football/players/63627.png"
         },
         {
+          "id": 338815,
+          "name": "A. Boşluk",
+          "age": 22,
+          "number": 24,
+          "position": "Defender",
+          "photo": "https://media.api-sports.io/football/players/338815.png"
+        },
+        {
           "id": 496868,
           "name": "T. İnce",
           "age": 18,
@@ -4361,12 +3969,20 @@
           "photo": "https://media.api-sports.io/football/players/496868.png"
         },
         {
-          "id": 323369,
-          "name": "M. Løvik",
-          "age": 22,
-          "number": 14,
+          "id": 308689,
+          "name": "S. Lopes Cabral",
+          "age": 23,
+          "number": 55,
           "position": "Defender",
-          "photo": "https://media.api-sports.io/football/players/323369.png"
+          "photo": "https://media.api-sports.io/football/players/308689.png"
+        },
+        {
+          "id": 72048,
+          "name": "C. Özkacar",
+          "age": 25,
+          "number": 39,
+          "position": "Defender",
+          "photo": "https://media.api-sports.io/football/players/72048.png"
         },
         {
           "id": 332056,
@@ -4428,17 +4044,9 @@
           "id": 62323,
           "name": "M. Eskihellaç",
           "age": 28,
-          "number": 19,
+          "number": 7,
           "position": "Midfielder",
           "photo": "https://media.api-sports.io/football/players/62323.png"
-        },
-        {
-          "id": 474591,
-          "name": "C. Inao OulaÃ¯",
-          "age": 19,
-          "number": 42,
-          "position": "Midfielder",
-          "photo": "https://media.api-sports.io/football/players/474591.png"
         },
         {
           "id": 22408,
@@ -4449,10 +4057,26 @@
           "photo": "https://media.api-sports.io/football/players/22408.png"
         },
         {
+          "id": 158431,
+          "name": "M. Kabasakal",
+          "age": 29,
+          "number": 57,
+          "position": "Midfielder",
+          "photo": "https://media.api-sports.io/football/players/158431.png"
+        },
+        {
+          "id": 1938,
+          "name": "R. Malinovskyi",
+          "age": 32,
+          "number": 17,
+          "position": "Midfielder",
+          "photo": "https://media.api-sports.io/football/players/1938.png"
+        },
+        {
           "id": 422404,
           "name": "S. Malkoçoğlu",
           "age": 20,
-          "number": 74,
+          "number": 18,
           "position": "Midfielder",
           "photo": "https://media.api-sports.io/football/players/422404.png"
         },
@@ -4481,20 +4105,36 @@
           "photo": "https://media.api-sports.io/football/players/47443.png"
         },
         {
-          "id": 463101,
-          "name": "O. ÃakıroÄlu",
-          "age": 18,
-          "number": 17,
-          "position": "Attacker",
-          "photo": "https://media.api-sports.io/football/players/463101.png"
-        },
-        {
-          "id": 306854,
-          "name": "Felipe Augusto",
+          "id": 319514,
+          "name": "C. Çanak",
           "age": 21,
           "number": 99,
           "position": "Attacker",
-          "photo": "https://media.api-sports.io/football/players/306854.png"
+          "photo": "https://media.api-sports.io/football/players/319514.png"
+        },
+        {
+          "id": 43092,
+          "name": "D. Drăguş",
+          "age": 26,
+          "number": 70,
+          "position": "Attacker",
+          "photo": "https://media.api-sports.io/football/players/43092.png"
+        },
+        {
+          "id": 610759,
+          "name": "T. Karadeniz",
+          "age": 17,
+          "number": 77,
+          "position": "Attacker",
+          "photo": "https://media.api-sports.io/football/players/610759.png"
+        },
+        {
+          "id": 107660,
+          "name": "M. Mimaroğlu",
+          "age": 31,
+          "number": 9,
+          "position": "Attacker",
+          "photo": "https://media.api-sports.io/football/players/107660.png"
         },
         {
           "id": 3638,
@@ -4508,17 +4148,9 @@
           "id": 50246,
           "name": "U. Nayir",
           "age": 32,
-          "number": 18,
+          "number": 14,
           "position": "Attacker",
           "photo": "https://media.api-sports.io/football/players/50246.png"
-        },
-        {
-          "id": 49891,
-          "name": "A. Nwakaeme",
-          "age": 36,
-          "number": 9,
-          "position": "Attacker",
-          "photo": "https://media.api-sports.io/football/players/49891.png"
         },
         {
           "id": 15812,
@@ -4529,12 +4161,20 @@
           "photo": "https://media.api-sports.io/football/players/15812.png"
         },
         {
-          "id": 105320,
-          "name": "O. Zubkov",
-          "age": 29,
-          "number": 22,
+          "id": 454973,
+          "name": "N. Saviolo",
+          "age": 21,
+          "number": 70,
           "position": "Attacker",
-          "photo": "https://media.api-sports.io/football/players/105320.png"
+          "photo": "https://media.api-sports.io/football/players/454973.png"
+        },
+        {
+          "id": 161790,
+          "name": "A. Şimşir",
+          "age": 23,
+          "number": 58,
+          "position": "Attacker",
+          "photo": "https://media.api-sports.io/football/players/161790.png"
         }
       ]
     }
